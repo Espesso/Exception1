@@ -1,6 +1,6 @@
 import java.util.Scanner;
-
 public class Quotient {
+    //    65130500003
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter two integers:");
